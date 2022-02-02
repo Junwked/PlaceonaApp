@@ -14,6 +14,7 @@ struct ViewA: View {
         VStack{
             
             Text("ViewA(仮)")
+            Text("あいうえお")
             
         }
         
